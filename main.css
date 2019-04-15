@@ -1,0 +1,15 @@
+header {
+   background: url(../images/Image1.jpg) center / cover;
+   height: 60vh;
+   justify-content: center;
+   text-align: center;
+ }
+
+ h1 {
+    color: hsla(0, 0%, 100%, 0.9);
+    font-weight: bold;
+  }
+
+  .demo-list-item {
+    width: 300px;
+  }
